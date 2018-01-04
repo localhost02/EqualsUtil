@@ -1,4 +1,4 @@
-# EqualsUtil
+# cn.localhost01.EqualsUtil
 *用于比较两个对象是否内容相同*
 
 支持：

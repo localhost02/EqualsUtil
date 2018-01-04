@@ -1,6 +1,6 @@
-package util;
+package cn.localhost01;
 
-public class EqualsTest {
+public class EqualsUtilTest {
 
 	public static void main(String[] args) {
 		B b = new B();
